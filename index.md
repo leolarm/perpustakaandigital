@@ -12,5 +12,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Eros the Bittersweet An Essay](ebook/ErostheBittersweetAnEssay.pdf) – Anne Carson (1988)
 9. [Before Your Memory Fades](ebook/BeforeYourMemoryFades.pdf) – Toshikazu Kawaguchi (2024)
 10. [A Court of Thornsand Roses](ebook/ACourtofThornsandRoses.pdf) – Sarah J. Maas (2015)
-11. [Rangkuman UGC](ebook/RangkumanUGC.pdf) – Aleica Humaira Ramadhani (2024)
+11. [Rangkuman UGC](ebook/RangkumanUGC.pdf)
 *Powered by GitHub Pages*
