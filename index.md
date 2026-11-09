@@ -4,7 +4,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Yellowface](ebook/Yellowface.pdf) – R. F. Kuang (2023)
 2. [The Midnight Library](ebook/TheMidnightLibrary.pdf) – Matt Haig (2020)
-3. [The Lost Bookshop](ebookTheLostBookshop.pdf) – Ichiro Kishimi dan Fumitake Koga (2023)
+3. [The Lost Bookshop](ebook/TheLostBookshop.pdf) – Ichiro Kishimi dan Fumitake Koga (2023)
 4. [The Courage to Be Disliked](ebook/TheCouragetoBeDisliked.pdf) – Matt Haig (2013)
 5. [The Cinnamon Bun Book Store](ebook/TheCinnamonBunBookStore.pdf) – laurie Gilmore (2024)
 6. [Normal People](ebook/NormalPeople.pdf) – Sally Rooney (2020)
