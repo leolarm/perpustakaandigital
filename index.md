@@ -13,4 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Before Your Memory Fades](ebook/BeforeYourMemoryFades.pdf) – Toshikazu Kawaguchi (2024)
 10. [A Court of Thornsand Roses](ebook/ACourtofThornsandRoses.pdf) – Sarah J. Maas (2015)
 11. [Rangkuman UGC](ebook/RangkumanUGC.pdf)
+
 *Powered by GitHub Pages*
+
+*Aleica Humaira Ramadhani (13040124120031)*
